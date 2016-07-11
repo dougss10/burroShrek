@@ -1,0 +1,20 @@
+{
+  "name": "buscaencomendas",
+  "version": "1.0.0",
+  "description": "verifica se a encomenda chegou",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "verificar",
+    "encomendas"
+  ],
+  "author": "Douglas <douglas-da.silva.santos@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "colors": "^1.1.2",
+    "request": "^2.73.0"
+  }
+}
